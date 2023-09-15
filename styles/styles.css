@@ -1,0 +1,27 @@
+/**{border: solid 1px red;}*/
+body {
+    background:rgb(18, 17, 57);
+}
+
+.first-section{
+    background-image: url(/assets/img/detail-first-section3.svg);
+}
+
+.second-section{
+    background-image: url(/assets/img/img-second-section.svg);
+}
+
+.linea {
+    border-top: 3px solid rgb(207, 207, 207);
+    height: 2px;
+    max-width: 200px;
+    padding: 0;
+  }
+
+  .fourth-section{
+    background-image: url(/assets/img/detail-first-section3.svg);
+}
+
+ul#tabs li.check {
+    list-style-image: url('/assets/img/check-icon.svg');
+    }
