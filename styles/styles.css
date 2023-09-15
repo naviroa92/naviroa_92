@@ -4,11 +4,11 @@ body {
 }
 
 .first-section{
-    background-image: url(assets/img/detail-first-section3.svg);
+    background-image: url(./assets/img/detail-first-section3.svg);
 }
 
 .second-section{
-    background-image: url(assets/img/img-second-section.svg);
+    background-image: url(./assets/img/img-second-section.svg);
 }
 
 .linea {
@@ -19,9 +19,9 @@ body {
   }
 
   .fourth-section{
-    background-image: url(assets/img/detail-first-section3.svg);
+    background-image: url(./assets/img/detail-first-section3.svg);
 }
 
 ul#tabs li.check {
-    list-style-image: url('assets/img/check-icon.svg');
+    list-style-image: url('./assets/img/check-icon.svg');
     }
